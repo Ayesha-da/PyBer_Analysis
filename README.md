@@ -12,7 +12,7 @@ To create a summary DataFrame of the ride-sharing data by city type and to creat
 
 ![summary](https://user-images.githubusercontent.com/84524153/125146829-00819100-e0f6-11eb-8b17-96e5ee6454d2.png)
 
-The "Total fare by city" chart explains the sum of weekly fare recieved among different city types. There is a peak in demand of service just before march among all the cities as customers move around at the begining of spring.
+The "Total fare by city" chart explains the sum of weekly fare received among different city types. There is a peak in demand of service just before march among all the cities as customers move around at the begining of spring.
 
 Urban cities have frequent sharp change in demand of service going from high to low and vice versa at the begining of spring.
 
