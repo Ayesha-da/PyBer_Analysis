@@ -1,6 +1,8 @@
 # PyBer_Analysis
 ## Overview of the analysis:
 To perform exploratory ananlysis and create visualizations of rideshare data for PyBer to help improve access to ride-sharing services and determine affordability for underserved neighborhoods. 
+### Purpose
+To create a summary DataFrame of the ride-sharing data by city type and to create a multiple-line graph that shows the total weekly fares for each city type.
 ## Results:
 - In rural cities , total rides are far less than other cities, there are few drivers and so the total amount of fare is also less.The average fare per driver is high than any       other city although average per ride is less which shows that some rural cities might have high demand for service and low availabilty of drivers.
 
@@ -19,7 +21,7 @@ Suburban and rural type of cities mostly remain constant with change in demand o
 ![total_fare_city](https://user-images.githubusercontent.com/84524153/125146831-04adae80-e0f6-11eb-8e6a-f41225f4fc6b.png)
 
 ## Summary
-Recommendations for addressing disparities among city types.
+### Recommendations for addressing disparities among city types.
 
 1- To increase number of drivers in rural cities to address high demand and low service availability.
 
