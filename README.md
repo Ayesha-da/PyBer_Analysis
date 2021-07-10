@@ -19,10 +19,10 @@ Suburban and rural type of cities mostly remain constant with change in demand o
 ![total_fare_city](https://user-images.githubusercontent.com/84524153/125146831-04adae80-e0f6-11eb-8e6a-f41225f4fc6b.png)
 
 ## Summary
-Recommendations for addressing disparities among the city types.
+Recommendations for addressing disparities among city types.
 
 1- To increase number of drivers in rural cities to address high demand and low service availability.
 
 2- To decrease number of drivers from urban cities to increase overall  efficiency.
 
-3- affordability for underserved neighborhoods. 
+3- To adjust the fare amount in some rural and urban cities to increase affordability for underserved neighborhoods and so to increase the oveall profitability.
